@@ -52,18 +52,20 @@ body {
 .content__teaser {
   margin-bottom: 24px;
   color: white;
-  font-size: 22px;
+  font-size: 16px;
 }
 
 .content__cta {
   display: inline-block;
   margin: 0;
   padding: 12px 48px;
-  color: #white;
-  font-size: 22px;
+  color: white;
+  font-size: 18px;
   text-decoration: none;
-  border: solid 4px white;
+  border: solid 2px white;
+  text-decoration: none;
 }
+
 
 /* =============================================================================
   VIDEO

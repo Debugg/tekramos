@@ -1,3 +1,3 @@
-# tekramos Web Page
+# TEK RAMOS
 -----------------------
 Website in development!
